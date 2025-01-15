@@ -1,0 +1,12 @@
+.friendsAvatar,
+.friendsName {
+  margin-bottom: 8px;
+}
+
+.isOnline {
+  color: #2ecc71;
+}
+
+.isOffline {
+  color: #e74c3c;
+}
